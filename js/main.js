@@ -34,4 +34,4 @@ $(function(){
   
 });
 
-// var mixer = mixitup('.portfolio__gallery');
+var mixer = mixitup('.portfolio__gallery');
